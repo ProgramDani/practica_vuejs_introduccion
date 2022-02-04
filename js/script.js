@@ -46,3 +46,11 @@ var app = new Vue({
     col: server_data
   }
 });
+
+/*https://ajgallego.gitbook.io/bootstrap-4/media-queries
+
+
+@media (max-width: 576px) {
+  
+}
+*/
